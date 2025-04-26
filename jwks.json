@@ -4,7 +4,7 @@
 		{
 	  	  	"alg": "RS256",
 	    		"e": "AQAB",
-	    		"kid": "server-key",
+	    		"kid": "v1",
 	     		"kty": "RSA",
 	    		"n": "b8023d511ebf65fe623b426df3e94fc30ade1a8da47387b6c49078b076eed35a6656e6f30a7eb4b368f2f058f7563d54ad8084a81807c333802f2de4e00a72324c341ed761f6d7e7ccfba31d8b334b8b3def998a5c9c9c4d95ef58bfe596526b1d48cf1aac9b09daa57a5459cc8349508ec9f4f73de6734aa774f0425793f744bb8c4434f72796356aba721"
 			"use": "sig"
